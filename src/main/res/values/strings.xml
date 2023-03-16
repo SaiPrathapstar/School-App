@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Streams School</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="tkr">TKR</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="list_of_schools">List of Schools</string>
+    <string name="plus">+</string>
+    <string name="school_name">School Name</string>
+    <string name="chairman">Chairman</string>
+    <string name="area">Area</string>
+    <string name="add">ADD</string>
+    <string name="school_1">School 1</string>
+    <string name="it_i_year_a">IT I Year A</string>
+    <string name="presenties">Present :</string>
+    <string name="total">Total :</string>
+    <string name="title_activity_class">ClassActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="student_name">student_name</string>
+    <string name="number">Number</string>
+    <string name="name">Name</string>
+    <string name="email">EMail</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="save">save</string>
+    <string name="roll_no">Roll No</string>
+</resources>
